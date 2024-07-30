@@ -20,10 +20,10 @@ I'm a fullstack developer proficient in PHP, Laravel, HTML, CSS, and Python.
 - Digital Ocean
 
 ### 📈 GitHub Stats
-![kauandouglas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauandouglas&theme=vue-dark&hide_border=true)
+![kauandouglas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kauandouglas&theme=dark&hide_border=true)
 
 ### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauandouglas&layout=compact&theme=vue-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauandouglas&layout=compact&theme=dark&hide_border=true)
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kauan-douglas-40a653157)
